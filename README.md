@@ -1,6 +1,6 @@
 # SphinQ
 https://sphinq.com/
-# Blockchain Architecture Utilizing SPHINCS Signatures: A Novel Approach to Quantum-Resistant Cryptography
+# Blockchain Architecture Utilizing SPHINCS+ Signatures: A Novel Approach to Quantum-Resistant Cryptography
 
 # Abstract
 In the ever-evolving realm of blockchain technologies, the rising power and prominence of quantum computing demand a fresh perspective on cryptographic systems. This repository introduces a novel blockchain architecture that leverages SPHINCS, a state-of-the-art hash-based, post-quantum secure signature scheme. This new approach enhances blockchain security, ensuring robustness against potential quantum computer-based attacks, while also maintaining the core benefits of conventional cryptographic technologies.
