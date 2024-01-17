@@ -1,5 +1,9 @@
 # SphinQ
 https://sphinq.com/
+
+# Rg
+https://www.researchgate.net/publication/377359676_SphinQ_Bridging_the_Quantum_Future_with_Unrivalled_Privacy_and_Smart_Contract_Innovation
+
 # Blockchain Architecture Utilizing SPHINCS+ Signatures: A Novel Approach to Quantum-Resistant Cryptography
 
 # Abstract
